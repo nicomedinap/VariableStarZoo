@@ -6,5 +6,5 @@
  Hasta el momento, todos los catálogos usados están dentro del directorio "./Catalogos_locales/", menos el catálogo VIVA, el cual pesa más de 1 Gb, y lo he subido a [ESTE LINK](https://drive.google.com/file/d/1WdYtWksLPgKxGV4_myWZN7DTs1Uyg1_G/view?usp=sharing) de Google Drive.
 
 
-
+Cualquier edición, adición o palabras para agregar son bienvenidas!
 
